@@ -1,7 +1,7 @@
 # ECG Polar Test
 
 ## Introduction
-We wanted to know if we can use the [Polar H6 heart rate sensor](https://www.polar.com/de/produkte/accessoires/H6) to realiably record and scientifically analyse ECG data for heart rate (HR) and HR variability (HRV) analysis. 
+We wanted to know if we can use the [Polar H6 heart rate sensor](https://www.polar.com/de/produkte/accessoires/H6) to reliably record and scientifically analyse ECG data for heart rate (HR) and HR variability (HRV) analysis. 
 
 ## Methods
 We compared the data from the Polar H6 to a standard scientific 3-lead ECG. 
